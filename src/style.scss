@@ -243,6 +243,9 @@ body {
   display: flex;
   flex-wrap: wrap;
   .event {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
     flex: 1;
     min-width: 350px;
     color: #313131;
@@ -251,8 +254,7 @@ body {
     margin: 5px;
     transition: 0.2s all ease;
     &:hover {
-      box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.12),
-        0 1px 6px 0 rgba(0, 0, 0, 0.12);
+      box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.12), 0 1px 6px 0 rgba(0, 0, 0, 0.12);
     }
     .cover {
       img {
@@ -260,58 +262,66 @@ body {
       }
     }
     .body {
-      .title {
-        text-align: center;
-        margin: 10px 0;
-        h3 {
-          margin: 0px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      flex: 1;
+      .header {
+        .title {
+          text-align: center;
+          margin: 10px 0;
+          h3 {
+            margin: 0px;
+          }
+        }
+        .detail {
+          .host-by {
+            text-align: center;
+            margin-bottom: 10px;
+            color: darkgray;
+          }
+          .location-date {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+            margin-bottom: 10px;
+            .location {
+              display: flex;
+              justify-content: center;
+            }
+            .date {
+              display: flex;
+              justify-content: center;
+            }
+          }
+          .description {
+            color: darkgray;
+            padding: 20px;
+          }
         }
       }
-      .detail {
-        .host-by {
-          text-align: center;
-          margin-bottom: 10px;
-          color: darkgray;
+      .bottom {
+        .event--categories {
+          margin-top: 15px;
+          span {
+            @include tag(#ff8f29);
+          }
         }
-        .location-date {
+        .buttons {
+          background-color: lightgrey;
           display: flex;
           flex-direction: row;
           justify-content: space-around;
-          margin-bottom: 10px;
-          .location {
-            display: flex;
-            justify-content: center;
+          a {
+            color: black;
+            text-decoration: none;
+            width: 100%;
+            padding: 5px;
+            text-align: center;
           }
-          .date {
-            display: flex;
-            justify-content: center;
+          a:hover {
+            background-color: darkgrey;
           }
-        }
-        .description {
-          color: darkgray;
-          padding: 20px;
-        }
-      }
-      .event--categories {
-        margin-top: 15px;
-        span {
-          @include tag(#ff8f29);
-        }
-      }
-      .buttons {
-        background-color: lightgrey;
-        display: flex;
-        flex-direction: row;
-        justify-content: space-around;
-        a {
-          color: black;
-          text-decoration: none;
-          width: 100%;
-          padding: 5px;
-          text-align: center;
-        }
-        a:hover {
-          background-color: darkgrey;
         }
       }
     }
