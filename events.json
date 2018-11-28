@@ -1,9 +1,15 @@
 [
   {
-    "eventName": "Flutter Meetup",
+    "eventName": "Flutter Meetup test",
     "description": "There is great stuff going in our tech community, since there’s one more addition to our community list i.e. Flutter Pakistan and they are organizing their first meetup, so join them if you are interested in learning about the upcoming technology from Google.",
     "hostBy": "Flutter Pakistan",
-    "categories": ["Mobile App", "Cross Platform", "Flutter", "Flutter Pakistan", "Meetup"],
+    "categories": [
+      "Mobile App",
+      "Cross Platform",
+      "Flutter",
+      "Flutter Pakistan",
+      "Meetup"
+    ],
     "country": "Pakistan",
     "city": "Karachi",
     "eventCover": "https://scontent.fkhi9-1.fna.fbcdn.net/v/t1.0-9/44486068_680885222294175_370829490676301824_n.jpg?_nc_cat=111&_nc_ht=scontent.fkhi9-1.fna&oh=d1b4a9a8f13aa80552d655886cc028b2&oe=5C6EEB66",
@@ -51,7 +57,12 @@
     "eventName": "Blockchain in Healthcare Meetup",
     "description": "This will be a meetup with Doctors/Professionals/Medical IT experts as speakers/panelists to share the contemporary approaches and practices. We will discuss technologies and digital innovations in the healthcare/medical industry. Apart from that, we will also share and learn the role of Blockchain Technology in Healthcare/Medical Industry.",
     "hostBy": "Blockchain Forum of Pakistan",
-    "categories": ["Blockchain", "Healthcare", "Blockchain Forum of Pakistan", "Meetup"],
+    "categories": [
+      "Blockchain",
+      "Healthcare",
+      "Blockchain Forum of Pakistan",
+      "Meetup"
+    ],
     "country": "Pakistan",
     "city": "Karachi",
     "eventCover": "https://scontent.fkhi9-1.fna.fbcdn.net/v/t1.0-9/42808523_10160971137515261_4085114584032083968_n.png?_nc_cat=111&_nc_ht=scontent.fkhi9-1.fna&oh=8e712405eef37bb8da3643dd9d65bbcd&oe=5C3FBBF9",
@@ -82,5 +93,53 @@
     "date": "17-11-2018",
     "eventLink": "http://bit.ly/2JOgGqO",
     "registerLink": "http://bit.ly/2JKTpWA"
+  },
+  {
+    "eventName": "Design & Prototype with Adobe XD",
+    "description": "Another event for UI and UX in Karachi by User and Experience, this time it's about learning the fastest growing tool by Adobe for Design and Prototype.",
+    "hostBy": "User and Experience",
+    "categories": ["UX", "UI", "Design", "Meetup"],
+    "country": "Pakistan",
+    "city": "Karachi",
+    "eventCover": "https://scontent.fkhi1-1.fna.fbcdn.net/v/t1.0-9/45464891_2036801906341531_2682049472527073280_n.jpg?_nc_cat=106&_nc_ht=scontent.fkhi1-1.fna&oh=2e29657ff6406f95c6109edec40f16d4&oe=5C64C0F3",
+    "date": "10-11-2018",
+    "eventLink": "http://bit.ly/2PJdKBk",
+    "registerLink": "http://bit.ly/2D8pTJ8"
+  },
+  {
+    "eventName": "Blockchain Primer",
+    "description": "Blockchain Primer - A series comprising of theoretical nitty gritty of technicalities of Blockchain explained by the best in this space. It is organized by ChainLabs in collaboration with Trustworks.",
+    "hostBy": "ChainLabs",
+    "categories": ["Blockchain", "Meetup"],
+    "country": "Pakistan",
+    "city": "Karachi",
+    "eventCover": "https://scontent.fkhi1-1.fna.fbcdn.net/v/t1.0-9/45461911_2310980305850895_3475840934422249472_n.jpg?_nc_cat=106&_nc_ht=scontent.fkhi1-1.fna&oh=b79381c894561e31b428f8231c0bd950&oe=5C6F3096",
+    "date": "10-11-2018",
+    "eventLink": "http://bit.ly/2D6ODRY",
+    "registerLink": "http://bit.ly/2yWUZRe"
+  },
+  {
+    "eventName": "ECom Connect",
+    "description": "eCom Connect - Islamabad is a signature event of Pakistan e-Commerce Consortium. This event will bring a variety of topics around e-commerce industry in Pakistan.\n The conference aims to debate on the Impact of e-commerce on Pakistan Market in terms of Digital Payments, Marketplaces, Customer Experience, Marketing & Logistics in terms of the sector's current challenges and growth prospects. The conference will also provide Recommendations and Policies for the betterment of E-commerce implementation in the Country. Furthermore digital health, e-commerce and AI, Legal and taxation issues of e-commerce will also be discussed.",
+    "hostBy": "Pakistan E-commerce Consortium - PEC",
+    "categories": ["E-Commerce", "Conference"],
+    "country": "Pakistan",
+    "city": "Islamabad",
+    "eventCover": "https://scontent.fkhi1-1.fna.fbcdn.net/v/t1.0-9/45015619_2095483994115650_4092812514046246912_n.jpg?_nc_cat=102&_nc_ht=scontent.fkhi1-1.fna&oh=75fefe7bae62eb38756c20cc3b1e8c96&oe=5CA435FC",
+    "date": "13-11-2018",
+    "eventLink": "http://bit.ly/2QqIq7f",
+    "registerLink": "http://bit.ly/2PgTx6k"
+  },
+  {
+    "eventName": "Games Emerge Conference 2018",
+    "description": "Pixel Art Games Academy is organizing Games Emerge Conference 2018 at National Incubation Center and this event is supported by many organizations including ProPakistani, Careem, Bookitnow.pk and Tech Pakistan.\n Games Emerge Conference 2018 is an opportunity for Game Developers and Creative Artists to gather under one roof to SHARE, LEARN and CONNECT with local and international video game industry specialists and veterans.\n We are doing collaboration as much as possible to serve you best and we have got a promo code for this event which will give you 50% discount. DnCGEC18",
+    "hostBy": "PixelArt Games Academy",
+    "categories": ["Game", "Conference"],
+    "country": "Pakistan",
+    "city": "Islamabad",
+    "eventCover": "https://scontent.fkhi1-1.fna.fbcdn.net/v/t1.0-9/46768453_1978791162414155_4465549575792361472_o.jpg?_nc_cat=110&_nc_ht=scontent.fkhi1-1.fna&oh=b97e52bb2c3892dfe0df919fd510b82f&oe=5C6E2D9D",
+    "date": "18-11-2018",
+    "eventLink": "http://bit.ly/2OyeTqH",
+    "registerLink": "http://bit.ly/2RGH0FZ"
   }
 ]
