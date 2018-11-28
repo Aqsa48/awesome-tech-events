@@ -254,7 +254,8 @@ body {
     margin: 5px;
     transition: 0.2s all ease;
     &:hover {
-      box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.12), 0 1px 6px 0 rgba(0, 0, 0, 0.12);
+      box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.12),
+        0 1px 6px 0 rgba(0, 0, 0, 0.12);
     }
     .cover {
       img {
@@ -279,6 +280,9 @@ body {
             text-align: center;
             margin-bottom: 10px;
             color: darkgray;
+            span {
+              cursor: pointer;
+            }
           }
           .location-date {
             display: flex;
@@ -288,6 +292,9 @@ body {
             .location {
               display: flex;
               justify-content: center;
+              span {
+                cursor: pointer;
+              }
             }
             .date {
               display: flex;
@@ -303,6 +310,7 @@ body {
       .bottom {
         .event--categories {
           margin-top: 15px;
+          cursor: pointer;
           span {
             @include tag(#ff8f29);
           }

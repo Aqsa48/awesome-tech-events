@@ -143,7 +143,7 @@ class App extends Component {
                             <span onClick={() => this.searchEvents(event.city)}>
                               {event.city}
                             </span>
-                            ,{' '}
+                            ,&nbsp;
                             <span
                               onClick={() => this.searchEvents(event.country)}
                             >
