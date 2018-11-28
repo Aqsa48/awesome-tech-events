@@ -5,7 +5,8 @@
   "scripts": {
     "build": "webpack",
     "start": "webpack-dev-server",
-    "precommit": "NODE_ENV=production lint-staged"
+    "precommit": "NODE_ENV=production lint-staged",
+    "deploy": "npm run build && cd dist && git init && git add . && git commit -m \"deploying new version\" && git remote add origin https://github.com/devncode/awesome-tech-events.git && git push --force origin master:gh-pages"
   },
   "lint-staged": {
     "*.{js,jsx}": [
