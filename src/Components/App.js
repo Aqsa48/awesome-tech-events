@@ -1,15 +1,6 @@
 import React, { Component } from 'react';
 
 let events = [];
-const shuffle = a => {
-  const arr = a;
-  for (let i = a.length; i; i -= 1) {
-    const j = Math.floor(Math.random() * i);
-    [arr[i - 1], arr[j]] = [arr[j], arr[i - 1]];
-  }
-
-  return arr;
-};
 
 class App extends Component {
   constructor(props) {
@@ -28,11 +19,13 @@ class App extends Component {
       .then(jsonResponse => atob(jsonResponse.content))
       .then(contentResponse => JSON.parse(contentResponse))
       .then(eventsResponse => {
-        const shuffledEvents = shuffle(eventsResponse);
-        events = shuffledEvents;
+        const sortedEvents = eventsResponse.sort(
+          (a, b) => new Date(b.date) - new Date(a.date)
+        );
+        events = sortedEvents;
         this.setState({
           isLoading: false,
-          events: shuffledEvents
+          events: sortedEvents
         });
       });
   }
