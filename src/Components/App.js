@@ -1,5 +1,8 @@
 import React, { Component } from 'react';
 
+import data from '../../events.json';
+
+const localDev = false;
 let events = [];
 
 class App extends Component {
@@ -13,6 +16,17 @@ class App extends Component {
   }
 
   componentDidMount() {
+    if (localDev) {
+      const sortedEvents = data.sort(
+        (a, b) => new Date(b.date) - new Date(a.date)
+      );
+      events = sortedEvents;
+      this.setState({
+        isLoading: false,
+        events: sortedEvents
+      });
+      return;
+    }
     fetch(
       `https://api.github.com/repos/devncode/awesome-tech-events/contents/events.json`
     )

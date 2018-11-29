@@ -141,5 +141,41 @@
     "date": "11/18/2018",
     "eventLink": "http://bit.ly/2OyeTqH",
     "registerLink": "http://bit.ly/2RGH0FZ"
+  },
+  {
+    "eventName": "Swift Pakistan Meetup VI",
+    "description": "Swift Pakistan is collaboration with devncode, code pakistan and koderlabs to bring you another meetup for swift & iOS developers in Karachi, great speaker lineup with very interesting topics have been arranged.",
+    "hostBy": "Swift Pakistan",
+    "categories": ["Swift", "iOS", "Meetup"],
+    "country": "Pakistan",
+    "city": "Karachi",
+    "eventCover": "https://scontent.fkhi1-1.fna.fbcdn.net/v/t1.0-9/46474587_764763873862234_2013891056784900096_n.jpg?_nc_cat=101&_nc_ht=scontent.fkhi1-1.fna&oh=febe9e39ab736357b946585828b98586&oe=5C65F3F5",
+    "date": "12/1/2018",
+    "eventLink": "http://bit.ly/2rd0hnn",
+    "registerLink": "http://bit.ly/2BFJLSR"
+  },
+  {
+    "eventName": "AWS Karachi Meetup # 01",
+    "description": "AWS User Group Pakistan is bringing opportunity to meet and greet AWS enthusiast and learn from their experiences also some of the speakers are certified AWS architect with interesting topics so you will get chance to learn how they become one and you can too.",
+    "hostBy": "AWS User Group Pakistan",
+    "categories": ["AWS", "Amazon Web Service", "Meetup"],
+    "country": "Pakistan",
+    "city": "Karachi",
+    "eventCover": "https://scontent.fkhi1-1.fna.fbcdn.net/v/t1.0-9/46479354_1782466998547857_3229302132230324224_n.jpg?_nc_cat=109&_nc_ht=scontent.fkhi1-1.fna&oh=9d5f731b884522e27310d20832b0542c&oe=5CACB5E6",
+    "date": "12/15/2018",
+    "eventLink": "http://bit.ly/2TSsFrW",
+    "registerLink": "http://bit.ly/2E0G0tL"
+  },
+  {
+    "eventName": "React KHI Meetup # 02",
+    "description": "After their first successful meetup, they can coming back with second meet up. In this meetup, there will be some beginner to intermediate level talks, informative discussions and productive networking with beginners and professionals.",
+    "hostBy": "ReactKHI",
+    "categories": ["React", "Meetup"],
+    "country": "Pakistan",
+    "city": "Karachi",
+    "eventCover": "https://scontent.fkhi1-1.fna.fbcdn.net/v/t1.0-9/46637034_1885879391525473_7433717365713403904_o.jpg?_nc_cat=109&_nc_ht=scontent.fkhi1-1.fna&oh=0ae11badf357db29de633e2770022a61&oe=5C6D11E1https://scontent.fkhi1-1.fna.fbcdn.net/v/t1.0-9/46637034_1885879391525473_7433717365713403904_o.jpg?_nc_cat=109&_nc_ht=scontent.fkhi1-1.fna&oh=0ae11badf357db29de633e2770022a61&oe=5C6D11E1",
+    "date": "12/15/2018",
+    "eventLink": "http://bit.ly/2KGLWbQ",
+    "registerLink": "http://bit.ly/2PcVs7e"
   }
 ]
