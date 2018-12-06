@@ -177,5 +177,73 @@
     "date": "12/15/2018",
     "eventLink": "http://bit.ly/2KGLWbQ",
     "registerLink": "http://bit.ly/2PcVs7e"
+  },
+  {
+    "eventName": "ROS, where to start ?",
+    "description": "This is the first meetup of a series by PAKISTAN ROBOTICS CLUB and ENGINEERS BAZAAR. There be talks about Robotics, primarily ROS (Robot Operating System) and the discussion will be from Arduino to Raspberry Pi, Python, Image Processing and so on. It will be focused on developing local support and study groups around different technologies and decide on the topics for next meetup.",
+    "hostBy": "Pakistan Robotics Club",
+    "categories": [
+      "Robotics",
+      "Arduino",
+      "Raspberry Pi",
+      "Internet of Things",
+      "Meetup"
+    ],
+    "country": "Pakistan",
+    "city": "Karachi",
+    "eventCover": "https://scontent.fkhi4-1.fna.fbcdn.net/v/t1.0-9/47680258_10156738700211558_3451868308171653120_n.jpg?_nc_cat=108&_nc_eui2=AeG9H5Sqy-swdy_0g2XkEV7z_bwv2T7xl_Ac5OA1bDjZpXbuDdrnTRPXO5K50WPLVfwyw8mc1DM_vTIv7DlcSuV-YP_6UbdUA-FBQ65J1TSE1A&_nc_ht=scontent.fkhi4-1.fna&oh=62356e8eebbbe54e497f20c1ae361e68&oe=5C6D7649",
+    "date": "12/7/2018",
+    "eventLink": "http://bit.ly/2Ek5sdI",
+    "registerLink": "http://bit.ly/2Uli49l"
+  },
+  {
+    "eventName": "DevCon 2018 - 3rd Annual Developers Conference",
+    "description": "DevCon (developer conference) is the annual event in Islamabad. This aims to spread awareness about the cutting edge technologies, narrow down the skills gap and equip the programmers with the latest tools to compete with the ever revolutionizing software industry.\n Topics which will be discussed are Data Science, Machine Learning, Data Mining, DevOps and Internet of Things.",
+    "hostBy": "Code Movement Pakistan",
+    "categories": [
+      "Data Science",
+      "Machine Learning",
+      "Data Mining",
+      "DevOps",
+      "Internet of Things",
+      "DevCon",
+      "Conference"
+    ],
+    "country": "Pakistan",
+    "city": "Islamabad",
+    "eventCover": "https://scontent.fkhi4-1.fna.fbcdn.net/v/t1.0-9/47572307_2747965505429647_2665937783184424960_n.jpg?_nc_cat=107&_nc_eui2=AeGrKK44MERBj1LYMc-z-XMep01BSct2XyFgEPn-lUvdKrHZJURkvSC7Co9cYBh1FRKdZOQr9C4JULj0PpvJIiMd4p0SNkpZWumORKIQxZsHLA&_nc_ht=scontent.fkhi4-1.fna&oh=54f46b38e1eb4088391a15c8049cb5b2&oe=5C65C915",
+    "date": "12/16/2018",
+    "eventLink": "http://bit.ly/2RBw3pF",
+    "registerLink": "http://bit.ly/2BVtwRT"
+  },
+  {
+    "eventName": "Karachi.AI Meetup # 5 : NLP Special & Uncovering Deep Learning",
+    "description": "Karachi.AI’s next quarterly meetup is coming up and this time it’s about Natural Language Processing. It will be a great opportunity to learn about AI from industry experts, network with people in AI sector in Karachi.\n Registrations will open soon so mark yourself interested on Facebook event to get notified.",
+    "hostBy": "Karachi.AI",
+    "categories": [
+      "Data Science",
+      "Machine Learning",
+      "Deep Learning",
+      "Computer Vision",
+      "Meetup"
+    ],
+    "country": "Pakistan",
+    "city": "Karachi",
+    "eventCover": "https://scontent.fkhi4-1.fna.fbcdn.net/v/t1.0-9/47368693_1865089796933834_456029590150709248_n.jpg?_nc_cat=107&_nc_eui2=AeFuYYwzAP2fwWZFrSG504SKqR0aADjozCuT_rDOaoZKr87Ah7Fk2S_kokfBZUbd-B6fcqpZ_qXAR9sJBVyayKpKOjINCYLg04awCOpWdRqgWg&_nc_ht=scontent.fkhi4-1.fna&oh=4c7a8d9c7ad03411cc3a4da3cc3a81e2&oe=5CA68234",
+    "date": "12/22/2018",
+    "eventLink": "http://bit.ly/2RDhW35",
+    "registerLink": "http://bit.ly/2RDhW35"
+  },
+  {
+    "eventName": "Python Meetup at Habib University",
+    "description": "After an amazing time at Pycon Pakistan Conference, Python Karachi are back with their first meetup post conference. There will be a summary of the amazing talks that happened at Pycon Pakistan and have also lined up yet another special set of technical talks for you this time! ",
+    "hostBy": "Python Karachi",
+    "categories": ["Python", "Meetup"],
+    "country": "Pakistan",
+    "city": "Karachi",
+    "eventCover": "https://scontent.fkhi4-1.fna.fbcdn.net/v/t1.0-9/47324993_1899607016819377_6200039081393520640_n.jpg?_nc_cat=108&_nc_eui2=AeGEI9j1sl6fZIP1NsNtZ9yRddWyeDG76tcZmXDlUysDCFoaDGrBXgIh1yZ5A0W0qBla4aUIuZYoduZGAc1uJqtj8UpBP9VQl5E5Xck3puWSXg&_nc_ht=scontent.fkhi4-1.fna&oh=bc9e6314bbcb32d2e2843dcec103ea64&oe=5CA71377",
+    "date": "1/12/2019",
+    "eventLink": "http://bit.ly/2G4j66B",
+    "registerLink": "http://bit.ly/2RDhW35"
   }
 ]
