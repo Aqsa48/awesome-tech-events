@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 import data from '../../events.json';
 
-const localDev = true;
+const localDev = false;
 let events = [];
 
 class App extends Component {
