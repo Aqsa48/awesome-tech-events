@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 import data from '../../events.json';
 
-const localDev = false;
+const localDev = true;
 let events = [];
 
 class App extends Component {
@@ -263,8 +263,8 @@ class App extends Component {
                         ))}
                       </div>
                       <div className="buttons">
-                        <a href="{event.eventLink}">Event Link</a>
-                        <a href="{event.registerLink}">Registration Link</a>
+                        <a href={event.eventLink}>Event Link</a>
+                        <a href={event.registerLink}>Registration Link</a>
                       </div>
                     </div>
                   </div>

@@ -245,5 +245,41 @@
     "date": "1/12/2019",
     "eventLink": "http://bit.ly/2G4j66B",
     "registerLink": "http://bit.ly/2RDhW35"
+  },
+  {
+    "eventName": "Behance Portfolio Reviews 2018",
+    "description": "This is a unique event where creatives showcase their work in front of people to get their feedbacks, and to receive critique and appreciation.\n This event is affiliated by Behance, a unique community for designers across the Globe and organized by User Design and Experience community.",
+    "hostBy": "User Design and Experience",
+    "categories": ["Behance", "User Design", "User Experince", "Meetup"],
+    "country": "Pakistan",
+    "city": "Karachi",
+    "eventCover": "https://scontent.fkhi1-1.fna.fbcdn.net/v/t1.0-9/47432781_2076046295750425_3924909920184434688_o.jpg?_nc_cat=105&_nc_ht=scontent.fkhi1-1.fna&oh=c2b5012e9af254d07916e7446634068e&oe=5C94A387",
+    "date": "12/15/2018",
+    "eventLink": "http://bit.ly/2Bex8wx",
+    "registerLink": "http://bit.ly/2EtnV7S"
+  },
+  {
+    "eventName": "Islamabad.AI Meetup",
+    "description": "Another AI meetup in Islamabad organized by Islamabad.AI (local chapter of an international community named city.ai). In this meetup topics will be discussed like Artificial Intelligence and its applications and Data science (requirements and resources).",
+    "hostBy": "Islamabad.AI",
+    "categories": ["AI", "Meetup"],
+    "country": "Pakistan",
+    "city": "Islamabad",
+    "eventCover": "https://scontent.fkhi1-1.fna.fbcdn.net/v/t1.0-9/47378569_261688751137190_1020825954307538944_o.jpg?_nc_cat=106&_nc_ht=scontent.fkhi1-1.fna&oh=f212bf75c6b5b54a56ed37ba3b272815&oe=5C9A3A95",
+    "date": "12/22/2018",
+    "eventLink": "http://bit.ly/2EieUNU",
+    "registerLink": "http://bit.ly/2QvPNi0"
+  },
+  {
+    "eventName": "Using WordPress for Complex Web Development",
+    "description": "This WordPress Meetup is designed to help Businesses and Tech teams make better decisions while choosing from multiple CMS and Development Frameworks for their next development projects. More specifically, we will discuss how WordPress is not only a powerful and viable contender in the vast array of choices but also how it mostly emerges as the TOP choice when factoring in business requirements, tech team requirements, budgets, scalability, etc.",
+    "hostBy": "Wordpress Meetups Pakistan",
+    "categories": ["Wordpress", "Meetup"],
+    "country": "Pakistan",
+    "city": "Karachi",
+    "eventCover": "https://scontent.fkhi1-1.fna.fbcdn.net/v/t1.0-9/47686351_1978092972310474_3533710889976856576_o.jpg?_nc_cat=101&_nc_ht=scontent.fkhi1-1.fna&oh=6a2c21554bb2feff90950d53b187cbfa&oe=5CAD6241",
+    "date": "12/29/2018",
+    "eventLink": "http://bit.ly/2Etouyw",
+    "registerLink": "http://bit.ly/2Qujzn5"
   }
 ]
