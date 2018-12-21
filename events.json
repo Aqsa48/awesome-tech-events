@@ -293,5 +293,53 @@
     "date": "12/22/2018",
     "eventLink": "http://bit.ly/2Lntk0K",
     "registerLink": "http://bit.ly/2CgoaAK"
+  },
+  {
+    "eventName": "CTOs Meetup",
+    "description": "Another new community started around CTOs and they are having their first meetup and it’s invite only.",
+    "hostBy": "CTOs Meetup",
+    "categories": ["CTOs", "meetup"],
+    "country": "Pakistan",
+    "city": "Karachi",
+    "eventCover": "https://upload.wikimedia.org/wikipedia/commons/7/73/Meetup_Logo_2015.png",
+    "date": "12/22/2018",
+    "eventLink": "",
+    "registerLink": ""
+  },
+  {
+    "eventName": "React JS Masterclass",
+    "description": "This masterclass will be covering basic to intermediate concepts and real-world tasks in React. By the end, you'll not just be comfortable starting your next project in React, but also adding it incrementally into your mature code-base.",
+    "hostBy": "Facebook Developers Circle Islamabad",
+    "categories": ["react", "reactjs", "meetup"],
+    "country": "Pakistan",
+    "city": "Islamabad",
+    "eventCover": "https://scontent.fkhi9-1.fna.fbcdn.net/v/t1.0-9/48405056_10156951257471103_3758281501385424896_n.jpg?_nc_cat=107&_nc_eui2=AeEvATf6VeLxEqWFX5N2sMth9o2Kml9N0_z-q4TGXlO6WSZ41jLqBZdgf8RqeNOAsXkuhDJ14NXi6tWjPIFKe-IKLjsUZGO131VQ9UH0hDgBDg&_nc_ht=scontent.fkhi9-1.fna&oh=214a682b7c853c82d0da60bd2f7f0297&oe=5CD9340F",
+    "date": "12/29/2018",
+    "eventLink": "http://bit.ly/2AcMVMJ",
+    "registerLink": "http://bit.ly/2rP7gmU"
+  },
+  {
+    "eventName": "Frontend and DevOps Meetup",
+    "description": "In this first event the main agenda or goal of this event is to educate and empower beginners.\n\n The hands on sessions are targeted towards beginner and intermediate level audience. But if you already have the expertise you are more than welcome to join us and meet and provide your feedback.",
+    "hostBy": "DevOps Pakistan",
+    "categories": ["devops", "aws", "react", "reactjs", "meetup"],
+    "country": "Pakistan",
+    "city": "Karachi",
+    "eventCover": "https://scontent.fkhi9-1.fna.fbcdn.net/v/t1.0-9/48411867_10156722913809484_4347690686733090816_n.jpg?_nc_cat=103&_nc_ht=scontent.fkhi9-1.fna&oh=d1e1c67a63a378e1d0148599d0981337&oe=5CA2BA75",
+    "date": "12/29/2018",
+    "eventLink": "http://bit.ly/2ECcoSO",
+    "registerLink": "http://bit.ly/2BwLEA2"
+  },
+  {
+    "eventName": "Built with Kotlin | Android Pakistan Community",
+    "description": "This time they are bringing Kotlin in community , the event will be fully rely on amazing tech-talks discussion on Kotlin only, so if you are new to Kotlin or you want to find out why Kotlin is making room nowadays.",
+    "hostBy": "Android Pakistan Community",
+    "categories": ["android", "kotlin", "meetup"],
+    "country": "Pakistan",
+    "city": "Karachi",
+    "eventCover": "https://scontent.fkhi9-1.fna.fbcdn.net/v/t1.0-9/48375264_2428656360482007_1950865778970460160_n.jpg?_nc_cat=106&_nc_eui2=AeGAVnf-RXkBuDVmaXIlxk4b903cQiqFXO-nEdHPyOI2uApm_zXgkx9XK-0LoU6ZPasnztfOqO5vwIE_VLGGodT7YUrrPv2aYtmI5okCF3gMMw&_nc_ht=scontent.fkhi9-1.fna&oh=fc2d4cbc67ccf5bbbd899e2681e00604&oe=5CD7899E",
+    "date": "1/5/2019",
+    "eventLink": "http://bit.ly/2ScCjnX",
+    "registerLink": "http://bit.ly/2R8tMVX"
   }
 ]
