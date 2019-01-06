@@ -377,5 +377,17 @@
     "date": "1/10/2019",
     "eventLink": "http://bit.ly/2Rt9kiE",
     "registerLink": "http://bit.ly/2EXa4Wy"
+  },
+  {
+    "eventName": "ReactKHI Meetup # 03",
+    "description": "ReactKHi bringing their third meet up of ReactKHI on 26th of January, 2019. In this meet up, they will have some intermediate to advance level talks, informative discussions and productive networking with beginners and professionals.",
+    "hostBy": "ReactKHI",
+    "categories": ["react", "meetup"],
+    "country": "Pakistan",
+    "city": "Karachi",
+    "eventCover": "https://scontent.fkhi9-1.fna.fbcdn.net/v/t1.0-9/49761424_1942932195820192_8069727521748287488_o.jpg?_nc_cat=102&_nc_eui2=AeH-Pv1IRMCvFT0AyIj3JvASGpH-4U5wJbeFhpbLRvHNXuQtrmNRJeeRFycHCxek0KCcsVgzDBslFNim7-hBcfVHFhOU2F9kjAGAOsMDXIYFAA&_nc_ht=scontent.fkhi9-1.fna&oh=022cb36729b840d3643fea8091e0d85c&oe=5C914ABD",
+    "date": "1/26/2019",
+    "eventLink": "http://bit.ly/2R9VEtA",
+    "registerLink": "http://bit.ly/2R8Gg0u"
   }
 ]
